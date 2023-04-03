@@ -1,0 +1,14 @@
+class Otobus
+
+yolcular list
+sefer str
+bilet_ucret float private
+
+
+class Yolcu
+
+ad str
+soyad str
+koltuk_no int
+
+main

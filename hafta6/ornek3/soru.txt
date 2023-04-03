@@ -1,0 +1,6 @@
+Bir ad, soyad, yas, maas ve meslek özelliklerine sahip insan sınıfı oluşturunuz. 
+Ondan miras alan öğretmen ve hademe sınıflarını oluşturunuz. 
+Öğretmen sınıfı içinde branş, hademe içinde görevlikat özelliklerini ayrıca oluşturunuz. 
+ Öğretmen ve hademe sınıflarından 2 örnek oluşturunuz 
+ ve maaş yüksek olan hademenin bilgilerini ekrana yazdıracak kodu yazınız 
+ ve problemin sınıf diyagramını çiziniz.
