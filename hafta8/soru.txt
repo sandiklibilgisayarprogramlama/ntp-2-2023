@@ -1,0 +1,5 @@
+* Şekilde UML diyagramı verilen sistemi python programlama dilinde nesne tabanlı programlama tekniklerini
+kullanarak kodlayınız.
+
+* cal metodunu kullanarak nesne tabanlı programlamanın polimofizm özelliğini gösteriniz.
+* orkestrasi ozelliğini kullanarak nesne tabanlı programlamanın kapsülleme özelliğini gösteriniz.
