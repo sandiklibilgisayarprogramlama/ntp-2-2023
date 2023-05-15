@@ -1,3 +1,3 @@
-Araç tipinde bir sınıf tanımlayalım. hız, teker_sayisi ve yakıt_tipi değişkenleri ile bilgi_yazdir() metodunu oluşturalım.
-Daha sonra bu sınıftan miras alan motor, araba ve uçak sınıflarını tanımlayalım.
-
+Aşağıdaki a ve b maddelerini açıklayınız. (25)
+a) UML diyagramı nedir ? Çeşitleri nelerdir ? 
+b) Nesne tabanlı programlamada kalıtım ve kapsülleme kavramlarını açıklayınız.
